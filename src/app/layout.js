@@ -14,6 +14,9 @@ export const metadata = {
   title: "KinKeeper — Keep Your Friendships Alive",
   description:
     "KinKeeper helps you stay connected with the people who matter most.",
+  icons: {
+    icon: "/favicon.v2.ico",
+  },
 };
 
 export default function RootLayout({ children }) {

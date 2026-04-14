@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="bg-[#244D3F] text-white mt-auto">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 text-center">
-        {/* Brand */}
+        {/* Brand Info */}
         <h2 className="text-5xl font-bold mb-3 tracking-tight">KeenKeeper</h2>
         <p className="text-gray-300 text-sm max-w-md mx-auto mb-8 leading-relaxed">
           Your personal shelf of meaningful connections. Browse, tend, and

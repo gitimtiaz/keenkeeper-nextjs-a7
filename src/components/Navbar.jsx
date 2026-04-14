@@ -51,18 +51,19 @@ const Navbar = () => {
 
         {/* Mobile Nav */}
         <div className="flex sm:hidden items-center gap-1">
-          {navLinks.map(({ label, href }) => {
+          {navLinks.map(({ label, href, icon: Icon }) => {
             const isActive = pathname === href;
             return (
               <Link
                 key={href}
                 href={href}
-                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all duration-200 ${
+                className={`flex items-center gap-2 px-3 py-1.5 rounded-lg text-xs font-medium transition-all duration-200 ${
                   isActive
                     ? "bg-[#244D3F] text-white"
                     : "text-gray-600 hover:bg-green-50"
                 }`}
               >
+                <Icon className={"text-base " + (isActive ? "text-white" : "text-slate-400")} />
                 {label}
               </Link>
             );
