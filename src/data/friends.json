@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Mitchell",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "sarah.mitchell@gmail.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Met Sarah during freshman orientation at university. We bonded over a shared love of hiking and terrible sci-fi movies. She moved to Austin two years ago but we try to catch up regularly.",
+    "goal": 14,
+    "next_due_date": "2026-04-10"
+  },
+  {
+    "id": 2,
+    "name": "James Okafor",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "james.okafor@outlook.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "James was my first manager right out of college. He taught me more about professionalism than any course ever could. Still grabs coffee whenever he is in town.",
+    "goal": 10,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 3,
+    "name": "Priya Sharma",
+    "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "email": "priya.sharma@yahoo.com",
+    "days_since_contact": 11,
+    "status": "almost due",
+    "tags": ["college", "neighbor"],
+    "bio": "Priya and I lived on the same dorm floor for two years. She is now a product designer in Berlin. We have a standing monthly video call we rarely skip.",
+    "goal": 14,
+    "next_due_date": "2026-04-16"
+  },
+  {
+    "id": 4,
+    "name": "Daniel Torres",
+    "picture": "https://randomuser.me/api/portraits/men/55.jpg",
+    "email": "daniel.torres@proton.me",
+    "days_since_contact": 30,
+    "status": "overdue",
+    "tags": ["childhood", "close friend"],
+    "bio": "Daniel and I grew up on the same street. We drifted during college but reconnected at a mutual friend's wedding. He is one of the few people I can call at 2 AM about anything.",
+    "goal": 21,
+    "next_due_date": "2026-04-05"
+  },
+  {
+    "id": 5,
+    "name": "Anika Chowdhury",
+    "picture": "https://randomuser.me/api/portraits/women/12.jpg",
+    "email": "anika.chowdhury@gmail.com",
+    "days_since_contact": 7,
+    "status": "on-track",
+    "tags": ["work", "friend"],
+    "bio": "Anika joined the team as a senior engineer and quickly became someone I genuinely look up to. Outside work she runs marathons and volunteers at a local literacy program.",
+    "goal": 10,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 6,
+    "name": "Marcus Webb",
+    "picture": "https://randomuser.me/api/portraits/men/18.jpg",
+    "email": "marcus.webb@icloud.com",
+    "days_since_contact": 13,
+    "status": "almost due",
+    "tags": ["gym", "friend"],
+    "bio": "Marcus and I met at the gym three years ago. What started as a fitness friendship turned into late-night diner trips and long conversations about life.",
+    "goal": 14,
+    "next_due_date": "2026-04-15"
+  },
+  {
+    "id": 7,
+    "name": "Layla Hassan",
+    "picture": "https://randomuser.me/api/portraits/women/29.jpg",
+    "email": "layla.hassan@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["family friend", "neighbor"],
+    "bio": "Our families have been friends for over a decade. Layla is like a sister to me. She is studying medicine and despite the insane schedule, always makes time for a quick voice note.",
+    "goal": 7,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 8,
+    "name": "Ethan Park",
+    "picture": "https://randomuser.me/api/portraits/men/76.jpg",
+    "email": "ethan.park@gmail.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["college", "roommate"],
+    "bio": "Ethan was my college roommate for three years. He moved to Seoul to work at a game studio after graduation. The time difference makes it tricky but real conversations feel precious.",
+    "goal": 30,
+    "next_due_date": "2026-03-25"
+  }
+]
