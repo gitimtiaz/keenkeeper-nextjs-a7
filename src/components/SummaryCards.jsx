@@ -1,11 +1,14 @@
 import SummaryCard from "./SummaryCard";
+import { getFriendsStats } from "@/lib/getFriends";
 
 const SummaryCards = () => {
+  const { total, onTrack, needAttention } = getFriendsStats();
+
   const stats = [
-    { value: 10, label: "Total Friends", accent: "#244D3F" },
-    { value: 3,  label: "On Track",      accent: "#166534" },
-    { value: 6,  label: "Need Attention", accent: "#f59e0b" },
-    { value: 12, label: "Interactions This Month", accent: "#244D3F" },
+    { value: total,         label: "Total Friends",           accent: "#244D3F" },
+    { value: onTrack,       label: "On Track",                accent: "#166534" },
+    { value: needAttention, label: "Need Attention",          accent: "#f59e0b" },
+    { value: 12,            label: "Interactions This Month", accent: "#244D3F" },
   ];
 
   return (
