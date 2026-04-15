@@ -51,7 +51,7 @@ const Navbar = () => {
 
         {/* Mobile Nav */}
         <div className="flex sm:hidden items-center gap-1">
-          {navLinks.map(({ label, href, icon: Icon }) => {
+          {navLinks.map(({ label, href }) => {
             const isActive = pathname === href;
             return (
               <Link
@@ -63,7 +63,7 @@ const Navbar = () => {
                     : "text-gray-600 hover:bg-green-50"
                 }`}
               >
-                <Icon className={"text-base " + (isActive ? "text-white" : "text-slate-400")} />
+                {/* <Icon className={"text-base " + (isActive ? "text-white" : "text-slate-400")} /> */}
                 {label}
               </Link>
             );
