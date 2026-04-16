@@ -38,12 +38,7 @@ const FriendCard = ({ friend }) => {
       {/* Top row: avatar, name, last contact */}
       <div className="flex items-center gap-3 mb-3">
         <div className="relative w-10 h-10 rounded-full overflow-hidden shrink-0 bg-green-50 border border-green-100">
-          {/* <Image
-            src={friend.avatar}
-            alt={friend.name}
-            fill
-            className="object-cover"
-          /> */}
+        
           <img
             src={friend.avatar}
             alt={friend.name}

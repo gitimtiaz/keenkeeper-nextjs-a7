@@ -15,7 +15,7 @@ export const metadata = {
   description:
     "KinKeeper helps you stay connected with the people who matter most.",
   icons: {
-    icon: "/favicon.png",
+    icon: "/favicon.svg",
   },
 };
 

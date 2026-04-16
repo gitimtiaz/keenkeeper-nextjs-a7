@@ -49,7 +49,11 @@ const FriendDetailPage = ({ params }) => {
           {/* Avatar, name and status */}
           <div className="flex flex-col justify-center items-center gap-2">
             <div className="relative w-20 h-20 rounded-full overflow-hidden border-4 border-green-100 shrink-0">
-              <img src={friend.avatar} alt={friend.name} fill className="object-cover" />
+              <img 
+                src={friend.avatar} 
+                alt={friend.name}  
+                className="object-cover" 
+                />
             </div>
 
             <div className="flex flex-col items-center gap-2">
@@ -71,7 +75,7 @@ const FriendDetailPage = ({ params }) => {
 
           {/* Bio Block*/}
           <div className="flex flex-col justify-center items-center text-center gap-2">
-            <p className="text-sm text-gray-500 italic">"{friend.bio}"</p>
+            <p className="text-sm text-gray-500 italic px-4">"{friend.bio}"</p>
 
             {/* Email and contact info*/}
             <div className="flex flex-col gap-2 text-sm text-gray-600">

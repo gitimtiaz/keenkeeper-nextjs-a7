@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Sarah Chen",
-    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=SarahChen",
+    "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
     "status": "on-track",
     "lastContact": "5d ago",
     "tags": ["work", "college"],
@@ -22,7 +22,7 @@
   {
     "id": "2",
     "name": "Marcus Johnson",
-    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=MarcusJohnson",
+    "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
     "status": "almost-due",
     "lastContact": "18d ago",
     "tags": ["gym", "hobby"],
@@ -42,7 +42,7 @@
   {
     "id": "3",
     "name": "Olivia Martinez",
-    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=OliviaMartinez",
+    "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
     "status": "overdue",
     "lastContact": "45d ago",
     "tags": ["family", "childhood"],
@@ -62,7 +62,7 @@
   {
     "id": "4",
     "name": "Aisha Patel",
-    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=AishaPatel",
+    "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
     "status": "on-track",
     "lastContact": "3d ago",
     "tags": ["work", "mentor"],
@@ -82,7 +82,7 @@
   {
     "id": "5",
     "name": "Ryan O'Brien",
-    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=RyanOBrien",
+    "avatar": "https://randomuser.me/api/portraits/men/4.jpg",
     "status": "overdue",
     "lastContact": "60d ago",
     "tags": ["travel", "college"],
@@ -102,7 +102,7 @@
   {
     "id": "6",
     "name": "Tom Baker",
-    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=TomBaker",
+    "avatar": "https://randomuser.me/api/portraits/men/26.jpg",
     "status": "almost-due",
     "lastContact": "12d ago",
     "tags": ["work", "hobby"],
@@ -122,7 +122,7 @@
   {
     "id": "7",
     "name": "Lisa Nakamura",
-    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=LisaNakamura",
+    "avatar": "https://randomuser.me/api/portraits/women/56.jpg",
     "status": "overdue",
     "lastContact": "55d ago",
     "tags": ["work", "art"],
@@ -142,7 +142,7 @@
   {
     "id": "8",
     "name": "David Kim",
-    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=DavidKim",
+    "avatar": "https://randomuser.me/api/portraits/men/11.jpg",
     "status": "on-track",
     "lastContact": "7d ago",
     "tags": ["college", "music"],
@@ -162,7 +162,7 @@
   {
     "id": "9",
     "name": "Emma Wilson",
-    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=EmmaWilson",
+    "avatar": "https://randomuser.me/api/portraits/women/72.jpg",
     "status": "overdue",
     "lastContact": "62d ago",
     "tags": ["family", "mentor"],
@@ -182,7 +182,7 @@
   {
     "id": "10",
     "name": "James Wright",
-    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=JamesWright",
+    "avatar": "https://randomuser.me/api/portraits/men/62.jpg",
     "status": "almost-due",
     "lastContact": "25d ago",
     "tags": ["hobby", "travel"],
